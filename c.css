@@ -1,0 +1,124 @@
+*{
+margin: 0;
+    padding: 0;
+}
+header{
+width:100%;
+height: 60px;
+    background: #5352ed;
+margin: 0 auto;
+position: fixed}
+
+.mnue{margin: auto;}
+.mnue ul{list-style: none; margin-left:400px;}
+.mnue ul li {float: left;margin-left:50px;padding: 17px;}
+.mnue ul li a{text-decoration:none;color: white;font-size: 20px;}
+.mnue ul li:hover{color:rebeccapurple;background: red;}
+
+.contan{
+    width: 100%;
+    border: 2px solid red;
+}
+#home{
+width: 100%;
+
+background: #82ccdd;
+height: 700px;
+
+}
+#home  h1{
+    margin-left: 450px;
+    font-size: 50px;
+}
+#home img{
+    margin-top: 30px;
+    margin-left: 200px;
+    width: 300px;
+    height:300px;
+    border-radius: 200px;
+    border: 10px solid black;
+}
+#home .pargrah h2{
+   font-size: 50px;
+    margin-top:-270px;
+    margin-left: 600px;
+    color:yellow
+}
+
+#home .pargrah p{
+    font-size: 25px;
+    margin-left: 600px;
+    margin-top: 50px;
+    color:chartreuse
+}
+#skills{
+width: 100%;
+background: #ee5253;
+height: 800px;
+}
+#skills h1{
+   
+    margin-left: 500px;
+    font-size: 50px; 
+}
+
+.skill{
+    
+    margin-top: 100px;
+}
+
+ .skill h2{
+margin-top: 40px;
+margin-left: 250px;
+    font-size: 25px; 
+
+}
+
+.skill img{
+width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    border: 2px solid white;
+    margin-left: 100px;
+    margin-top: 50px;
+
+}
+
+
+
+#hops{
+    background:  #ff9ff3;
+    width: 100%;
+    height: 600px;
+}
+
+.hop h1{
+    margin-left: 500px;
+    font-size: 50px;
+}
+.hop p{
+    font-size: 24px;
+    margin-top: 100px;
+    margin-left: 15px;
+    color: #5f27cd;
+}
+#cotactmy{
+    width: 100%;
+    background:#8395a7;
+    height: 600px;
+}
+#cotactmy h1{
+    
+    margin-left: 500px;
+    font-size: 50px;
+    
+}
+#cotactmy img{
+    
+width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    border: 2px solid white;
+    margin-left: 70px;
+    margin-top: 50px;
+}
